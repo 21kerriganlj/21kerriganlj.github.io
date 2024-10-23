@@ -53,7 +53,7 @@ education:
     institution: University of Southern California
     date_start: 2023-08-25
     date_end: 2025-05-14
-    summary: |
+    summary: 
       GPA: 3.64/4.0
 
       Courses included:
@@ -65,7 +65,7 @@ education:
     institution: Saddleback College
     date_start: 2021-08-24
     date_end: 2023-05-21
-    summary: |
+    summary: 
       GPA: 3.94/4.0
       
       Courses included:
