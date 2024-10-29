@@ -35,7 +35,7 @@ profiles:
     label: E-mail Me
 
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/liam-kerrigan0
+    url: https://linkedin.com/in/liam-kerrigan0
 
 
 interests:
