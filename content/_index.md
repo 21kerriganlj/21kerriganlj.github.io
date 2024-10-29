@@ -24,22 +24,27 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
+          filename: tommy_trojan.jpg
           filters:
-            brightness: 1.0
+            brightness: 0.5
           size: cover
           position: center
           parallax: false
+          
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 My Background'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I have many different answers as to why I study astronautical engineering, but to put it simply -- it is because of my belief in advancing our understanding and knowledge beyond Earth. There are many unique engineering problems across the fields where astronautics comes about in the defense or space industry, which is where I want to find myself at the forefront of.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+
+        I apply a range of qualitative and quantitative methods in my coursework to comprehensively investigate the role of science and technology in achieving mission or system performance requirements in spacecraft design. The benefit of this methodology can apply to fields that reach into mechanical and aerospace engineering, which is something that I would like to emphasize as it proves my adaptability to perform in any of these respective fields.
         
-        Please reach out to collaborate 😃
+        At the end of the day, engineering is collective and shared across teams, so please reach out to collaborate or ask questions with the contact information above 😃
+
+        
+        Ad astra.
     design:
       columns: '1'
   - block: collection
