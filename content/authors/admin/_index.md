@@ -81,9 +81,11 @@ skills:
       - name: Python
         description: ''
         icon: code-bracket
-      - name: Data Science
+      - name: C++
         description: ''
-        icon: chart-bar
+        icon: code-bracket
+      - name: MATLAB/Simulink
+        icon: code-bracket
       - name: SQL
         description: ''
         icon: circle-stack
@@ -95,10 +97,10 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Hockey
         description: ''
         percent: 100
-        icon: cat
+        icon: hockey
       - name: Photography
         description: ''
         percent: 80
