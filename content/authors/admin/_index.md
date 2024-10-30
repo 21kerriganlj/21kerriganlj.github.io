@@ -83,10 +83,10 @@ skills:
         icon: "custom/SOLIDWORKS"
       - name: Seimens NX
         icon: "custom/NX-Logo"
-      - name: MATLAB/Simulink
-        icon: "custom/Matlab_Logo"
       - name: ANSYS Workbench
         icon: "custom/ANSS"
+      - name: MATLAB/Simulink
+        icon: "custom/Matlab_Logo"
       - name: C++
         description: ''
         icon: code-bracket
@@ -112,7 +112,7 @@ skills:
       - name: Hockey
         description: ''
         percent: 100
-        icon: "custom/hockey-puck-solid"
+        icon: 🏒
 
 # Awards.
 #   Add/remove as many awards below as you like.
