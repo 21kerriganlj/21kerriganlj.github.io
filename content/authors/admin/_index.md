@@ -86,7 +86,7 @@ skills:
       - name: MATLAB/Simulink
         icon: "custom/Matlab_Logo"
       - name: ANSYS Workbench
-        icon: "custom/Ansys_logo"
+        icon: "custom/ANSS"
       - name: C++
         description: ''
         icon: code-bracket
