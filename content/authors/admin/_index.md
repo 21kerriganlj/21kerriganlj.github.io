@@ -86,14 +86,14 @@ skills:
         description: ''
         icon: code-bracket
       - name: MATLAB/Simulink
-        icon: code-bracket
+        icon: "custom/Matlab_Logo"
       - name: Unix
         description: ''
         icon: circle-stack
       - name: SOLIDWORKS
         icon: cat
       - name: Seimens NX
-        icon: "custom/Matlab_Logo.png"
+        icon: "custom/NX-Logo.png"
       - name: ANSYS Workbench
         icon: owl
 
