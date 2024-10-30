@@ -48,6 +48,7 @@ education:
     institution: University of Southern California
     date_start: 2025-08-24
     date_end: 2026-05-14
+    summary: |
     
   - area: B.S. Astronautical Engineering
     institution: University of Southern California
@@ -56,10 +57,10 @@ education:
     summary: |
       GPA: 3.64/4.0
 
-      Courses included:
-      - ASTE 331a/b, Spacecraft Systems Engineering
+      Relevant Courses included:
+      - ASTE 331a/b, Spacecraft Systems Engineering -- In Progress
       - ASTE 475, Rocket Propulsion
-      - AME 308, Computer-Aided Engineering (NX)
+      - AME 308, Computer-Aided Engineering (NX + NX NASTRAN)
 
   - area: A.S. Physics
     institution: Saddleback College
@@ -68,8 +69,8 @@ education:
     summary: |
       GPA: 3.94/4.0
       
-      Courses included:
-      - ENGR 30, Introduction to MATLAB Programming
+      Relevant Courses included:
+      - ENGR 20, Introduction to MATLAB Programming
       - CS 1A & 1B, Introduction to C++ Programming
 
 
@@ -107,7 +108,6 @@ skills:
         icon: camera
 
 
-
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
@@ -116,5 +116,6 @@ skills:
 ---
 
 ## About Me
+Hello -- my name is Liam Kerrigan and I am an astronautical engineering student at the University of Southern California. On this site you can find my experience and portfolio with some of the engineering projects that I have worked on these past couple years. 
 
-Hello -- I am an astronautical engineering student at the University of Southern California and I am interested in engineering analysis. I have 2+ years of project experience through various student design teams, where I have held different leadership roles. Aside from being driven by my interests in physics and mathematics, my mission goal lies in the service of others. Thank you for taking the time to go through my page.
+Thank you for taking the time to go through my page. Feel free to connect on me with LinkedIn or reach out to me with my provided email with questions you might have -- cheers!
