@@ -82,11 +82,11 @@ skills:
       - name: SOLIDWORKS
         icon: "custom/SOLIDWORKS"
       - name: Seimens NX
-        icon: "custom/NX-Logo"
+        #icon: "custom/NX-Logo"
       - name: ANSYS Workbench
-        icon: "custom/ansys-svgrepo-com"
+        #icon: "custom/ansys-svgrepo-com"
       - name: MATLAB/Simulink
-        icon: "custom/Matlab_Logo"
+       # icon: "custom/Matlab_Logo"
       - name: C++
         description: ''
         icon: code-bracket
@@ -95,7 +95,7 @@ skills:
         icon: code-bracket
       - name: Unix
         description: ''
-        icon: "custom/bash02-svgrepo-com"
+        icon: code-bracket
 
   - name: Hobbies
     color: '#eeac02'
@@ -113,10 +113,6 @@ skills:
         description: ''
         percent: 80
         icon: camera
-      - name: Piano
-        icon: "custom/piano-svg-repo-com"
-      - name: Reading
-        icon: "custom/reading-svgrepo-com"
 
 
 # Awards.
