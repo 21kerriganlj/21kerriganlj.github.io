@@ -79,8 +79,6 @@ education:
 skills:
   - name: Technical Skills
     items:
-      
-    
       - name: SOLIDWORKS
         icon: "custom/SOLIDWORKS"
       - name: Seimens NX
