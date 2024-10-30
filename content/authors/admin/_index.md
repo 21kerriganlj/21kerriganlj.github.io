@@ -93,7 +93,7 @@ skills:
       - name: Python
         description: ''
         icon: code-bracket
-        - name: Unix
+      - name: Unix
         description: ''
         icon: code-bracket
 
