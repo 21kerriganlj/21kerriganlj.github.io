@@ -87,9 +87,16 @@ skills:
         icon: code-bracket
       - name: MATLAB/Simulink
         icon: code-bracket
-      - name: SQL
+      - name: Unix
         description: ''
         icon: circle-stack
+      - name: SOLIDWORKS
+        icon: cat
+      - name: Seimens NX
+        icon: dog
+      - name: ANSYS Workbench
+        icon: owl
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -116,6 +123,6 @@ skills:
 ---
 
 ## About Me
-Hello -- my name is Liam Kerrigan and I am an astronautical engineering student at the University of Southern California. On this site you can find my experience and portfolio with some of the engineering projects that I have worked on these past couple years. 
+Hello -- my name is Liam Kerrigan and I am an astronautical engineering student at the University of Southern California. On this site you can find my coursework experience and project portfolio with some of the engineering projects that I have worked on these past couple years.
 
-Thank you for taking the time to go through my page. Feel free to connect on me with LinkedIn or reach out to me with my provided email with questions you might have -- cheers!
+Thank you for taking the time to go through my page. Feel free to connect on me with LinkedIn or reach out to me with my provided email with any questions you might have.

@@ -39,6 +39,6 @@ sections:
         
         At the end of the day, engineering is collective and shared across teams, so please reach out to collaborate or ask questions 😃
 
-        
+  
         Ad astra.
 ---
