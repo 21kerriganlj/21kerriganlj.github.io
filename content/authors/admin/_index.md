@@ -82,11 +82,11 @@ skills:
       - name: SOLIDWORKS
         icon: "custom/SOLIDWORKS"
       - name: Seimens NX
-        #icon: "custom/NX-Logo"
-      - name: ANSYS Workbench
-        #icon: "custom/ansys-svgrepo-com"
+        icon: "custom/NX-Logo"
       - name: MATLAB/Simulink
-       # icon: "custom/Matlab_Logo"
+        icon: "custom/Matlab_Logo"
+      - name: ANSYS Workbench
+        icon: "custom/Ansys_logo"
       - name: C++
         description: ''
         icon: code-bracket
@@ -105,15 +105,14 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Hockey
-        description: ''
-        percent: 100
-        icon: "custom/hockey-puck-solid"
       - name: Photography
         description: ''
         percent: 80
         icon: camera
-
+      - name: Hockey
+        description: ''
+        percent: 100
+        icon: "custom/hockey-puck-solid"
 
 # Awards.
 #   Add/remove as many awards below as you like.
