@@ -79,23 +79,25 @@ education:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
-        description: ''
-        icon: code-bracket
-      - name: C++
-        description: ''
-        icon: code-bracket
-      - name: MATLAB/Simulink
-        icon: "custom/Matlab_Logo.svg"
-      - name: Unix
-        description: ''
-        icon: circle-stack
+      
+    
       - name: SOLIDWORKS
-        icon: "custom/SolidWorks_logo"
+        icon: "custom/SOLIDWORKS"
       - name: Seimens NX
         icon: "custom/NX-Logo"
       - name: ANSYS Workbench
-        icon: owl
+        icon: "custom/ANSS.D"
+      - name: MATLAB/Simulink
+        icon: "custom/Matlab_Logo"
+      - name: C++
+        description: ''
+        icon: code-bracket
+      - name: Python
+        description: ''
+        icon: code-bracket
+        - name: Unix
+        description: ''
+        icon: code-bracket
 
   - name: Hobbies
     color: '#eeac02'
