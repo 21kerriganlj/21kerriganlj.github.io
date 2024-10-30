@@ -93,7 +93,7 @@ skills:
       - name: SOLIDWORKS
         icon: cat
       - name: Seimens NX
-        icon: dog
+        icon: "custom/Matlab_Logo.png"
       - name: ANSYS Workbench
         icon: owl
 
