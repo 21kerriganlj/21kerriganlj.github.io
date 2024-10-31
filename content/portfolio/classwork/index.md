@@ -5,7 +5,7 @@ date: 2024-10-30
 type: project
 math: false
 tags:
-  - FRC
+  - USC
 image:
   caption: 'Course Highlights'
 ---
