@@ -122,6 +122,6 @@ skills:
 ---
 
 ## About Me
-Hello -- my name is Liam Kerrigan and I am an astronautical engineering student at the University of Southern California. On this site you can find my coursework experience and project portfolio with some of the engineering projects that I have worked on these past couple years.
+Hello -- my name is Liam Kerrigan and I am an astronautical engineering student at the University of Southern California. On this site you can find my coursework experience and project portfolio with some of the engineering projects that I have worked on over the past couple years.
 
-Thank you for taking the time to go through my page. Feel free to connect on me with LinkedIn or reach out to me with my provided email with any questions you might have.
+Thank you for taking the time to go through my page. Feel free to connect with me on LinkedIn or reach out with any questions you might have.

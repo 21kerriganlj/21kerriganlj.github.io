@@ -32,12 +32,12 @@ sections:
       title: '📚 My Background'
       subtitle: ''
       text: |-
-        I have many different answers as to why I study astronautical engineering, but to put it simply -- it is because of my belief in advancing our understanding and knowledge as humans beyond Earth. There are many unique engineering problems across the fields where astronautics comes about in the defense or space industry. My dream is to find myself at the forefront of these issues.
+        I have many different answers as to why I study astronautical engineering, but to put it simply -- it is because I believe in advancing our understanding and current knowledge of the space environment. There are many unique engineering problems across the space or defense industry where astronautics comes about. My dream is to find myself at the forefront of these issues.
 
 
-        I have applied a range of qualitative and quantitative methods in my coursework to comprehensively investigate the role of science and technology in achieving mission or system performance requirements in spacecraft design. The benefit of this methodology can apply to fields that reach into mechanical and aerospace engineering -- which is something that I would like to emphasize as it proves my adaptability to perform in any of these respective fields.
-        
-        At the end of the day, engineering is collective and shared across teams, so please reach out to collaborate or ask questions 😃
+        I have applied a range of qualitative and quantitative methods in my coursework to comprehensively investigate the role of science and technology in achieving space mission or system performance requirements. This approach applies to fields such as mechanical or aerospace engineering. I want to emphasize this point as it proves my adaptability to perform in these fields and not be limited to astronautics.
+        
+        At the end of the day, engineering is collective and shared across teams, so please reach out to collaborate or ask questions. 😃
 
   
         Ad astra.
