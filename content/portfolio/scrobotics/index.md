@@ -7,7 +7,7 @@ math: false
 tags:
   - SC Robotics
 image:
-  caption: 'Course Highlights'
+  caption: ''
 ---
 
 This was my first project ever. Coming soon...

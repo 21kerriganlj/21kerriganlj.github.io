@@ -7,7 +7,7 @@ math: false
 tags:
   - USC
 image:
-  caption: 'Course Highlights'
+  caption: ''
 ---
 
 This was my first project at USC after transferring from a community college. I was part of a startup club, [Field Robotics Lab](https://www.linkedin.com/company/field-robotics-lab/), where the goal was to create USC's first rover student design team. After being connected through a mutual friend, I decided to help out the club founder's vision and work on creating a rover team that aims to compete in the [University Rover Challenge](https://urc.marssociety.org/), given my prior experience at Saddleback College.
