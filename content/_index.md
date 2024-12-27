@@ -35,7 +35,7 @@ sections:
         I have many different answers as to why I study astronautical engineering, but to put it simply -- it is because I believe in advancing our understanding and current knowledge of the space environment. There are many unique engineering problems across the space or defense industry where astronautics comes about. My dream is to find myself at the forefront of these issues.
 
 
-        I have applied a range of qualitative and quantitative methods in my coursework to comprehensively investigate the role of science and technology in achieving space mission or system performance requirements. This approach applies to fields such as mechanical or aerospace engineering. I want to emphasize this point as it proves my adaptability to perform in these fields and not be limited to astronautics.
+        I have applied a range of qualitative and quantitative methods in my coursework to comprehensively investigate the role of science and technology in achieving space mission or system performance requirements. This approach applies to fields such as mechanical or aerospace engineering. I want to emphasize this point as it proves my adaptability to perform in these fields outside of astronautics.
 
         
         At the end of the day, engineering is collective and shared across teams, so please reach out to collaborate or ask questions. 😃
