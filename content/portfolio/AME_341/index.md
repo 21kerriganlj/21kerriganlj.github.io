@@ -1,6 +1,6 @@
 ---
 title: "AME 341: Mechoptronics Laboratory"
-summary: A collection of the design process for the drive system.
+summary: A collection of reports and projects in an applied physics laboratory for mechanical engineering students
 date: 2024-08-24
 type: project
 math: false

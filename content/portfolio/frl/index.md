@@ -1,6 +1,6 @@
 ---
 title: USC FRL Rover
-summary: A collection of the design process for the drive system.
+summary: Design process for the drive system.
 date: 2023-09-04
 type: project
 math: false

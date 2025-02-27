@@ -1,6 +1,6 @@
 ---
 title: "ASTE 475: Rocket Propulsion"
-summary: A collection of the Quasi 1-D Nozzle Project.
+summary: Simulated Quasi 1-D Nozzle Flow Project.
 date: 2024-08-26
 type: project
 math: false
@@ -10,4 +10,4 @@ image:
   caption: ''
 ---
 
-This class focused on rocket propulsion.....
+This class focused on rocket propulsion.....(to be continued)
